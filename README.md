@@ -1,5 +1,5 @@
-# Discord Spam Bot
-A spammer bot for discord, you need a token from the discord developer portal and admin permissions to make it work
+# jspam
+Spam a message on a form or a text input (like whatsapp's chat)
 
 # Required
 **Python**
