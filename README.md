@@ -16,4 +16,4 @@ You can get this writing on cmd:
     pip install pyautogui
 
 # Support
-You can have support on [my discord server](https://discord.io/juro)
+You can have support on [my discord server](https://dsc.gg/juro0)
